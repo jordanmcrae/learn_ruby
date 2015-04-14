@@ -11,7 +11,7 @@ require "hello"
 # To stop this error from being thrown we need to create the file:
 # $ touch hello.rb
 
-# Now if we run rake again, it will complain about "a undefined local variable or method `hello'"
+# Now if we run rake again, it will complain about "an undefined local variable or method `hello'"
 # Let's keep this in mind while we go through the next little bit of code.
 
 # The line below is not important to us (line #18)
